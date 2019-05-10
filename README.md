@@ -19,7 +19,9 @@
 * Make sure the board is ON and connected to the computer with the USB Blaster Cable, click refresh and select the following:
 
 > **Host Connection**: De-SoC
+
 > **Processor**: ARM\_A9\_HPS\_arm\_a9\_0
+
 > **Terminal Device**: JTAG\_UART\_for\_ARM\_0
 
 * Choose **basic** or **exceptions** in the **Linker Section Presets** field depending on the type of program files included in the project.
