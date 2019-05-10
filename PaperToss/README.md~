@@ -1,0 +1,21 @@
+SW[1] move left
+SW[0] move right
+KEY[3] Help
+KEY[2] Reset
+KEY[1] Waste attempt
+KEY[0] Release
+
+-Interrupts with Pushbutton Keys
+-Character Buffer
+-Pixel Buffer - double buffering, bin files
+-Swtiches
+
+_________________
+Scoreboard on left
+Fan randomized every round
+Help - key[3]
+Reset to new round
+Path/Trajectory
+
+__________________
+Intel FPGA University for documents on ARM, De1-SoC computer system, Monitor Program
