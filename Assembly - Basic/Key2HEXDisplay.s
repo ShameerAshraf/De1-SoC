@@ -1,5 +1,12 @@
-/* Program to display digit on HEX corresponding to key pressed
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Program to display digit on HEX corresponding to key pressed
      using polled I/O */
+
           .text                   // executable code follows
           .global _start                  
 _start:                             

@@ -1,4 +1,10 @@
-/* Program to display moving boxes and lines on screen */
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Program to display moving boxes and lines on screen */
 
 #include <stdlib.h>
 #include <stdbool.h>

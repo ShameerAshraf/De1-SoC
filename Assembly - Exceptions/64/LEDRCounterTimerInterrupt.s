@@ -1,4 +1,10 @@
-/* Displays count on LEDR and uses A9 Private Timer to display seconds upto 59:99 */
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Displays count on LEDR and uses A9 Private Timer to display seconds upto 59:99 */
                   .section .vectors, "ax"                  
                 B        _start              // reset vector
                 B        SERVICE_UND         // undefined instruction vector

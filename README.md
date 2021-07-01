@@ -1,5 +1,5 @@
 # De1-SoC Programs
-> These programs were written as part of a course on Computer Organization in either the ARM Assembly Language or in C.
+> These programs were written as part of a course on Computer Organization in either the ARM Assembly Language or in C. If you are a student, please only use this repository as inspiration for solutions to your coursework.
 
 ## Hardware
 * **The [De1-SoC Board](http://www.de1-soc.terasic.com/)**

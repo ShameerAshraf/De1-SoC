@@ -1,4 +1,10 @@
-/* Program to display moving line on screen, test for animation */
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Program to display moving line on screen, test for animation */
 
 volatile int pixel_buffer_start; // global variable
 void plot_pixel(int x, int y, short int line_color);

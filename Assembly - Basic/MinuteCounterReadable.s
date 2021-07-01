@@ -1,5 +1,12 @@
-/* Program counts upto 59:99 seconds with 0.01s intervals and resets to 0 */
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Program counts upto 59:99 seconds with 0.01s intervals and resets to 0 */
 /* More readable code */
+
           .text                   // executable code follows
           .global _start                  
 _start:                             

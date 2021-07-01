@@ -1,4 +1,10 @@
-/* Program to display count on LEDR, toggle RUN using KEY[0], 
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Program to display count on LEDR, toggle RUN using KEY[0], 
 increase speed using KEY[1], decrease speed using KEY[2] */
                   .section .vectors, "ax"                  
                 B        _start              // reset vector

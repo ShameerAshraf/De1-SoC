@@ -1,9 +1,13 @@
-/* Subroutine to convert the digits from 0 to 9 to be shown on a HEX display.
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Subroutine to convert the digits from 0 to 9 to be shown on a HEX display.
  *    Parameters: R0 = the decimal value of the digit to be displayed
  *    Returns: R0 = bit patterm to be written to the HEX display
  */
-
-//////////////////////////////////////////////////////////////
 
           .text                   // executable code follows
           .global _start                  

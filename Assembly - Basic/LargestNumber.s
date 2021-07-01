@@ -1,4 +1,10 @@
-/* Program that finds the largest number in a list of integers   */
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Program that finds the largest number in a list of integers   */
 
          .text                  // executable code follows
          .global  _start

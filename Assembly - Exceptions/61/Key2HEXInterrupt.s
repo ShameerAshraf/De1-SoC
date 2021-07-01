@@ -1,4 +1,10 @@
-/* Program to display digits on HEX display for keys pressed */
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Program to display digits on HEX display for keys pressed */
                 .section .vectors, "ax"  
                 B        _start              // reset vector
                 B        SERVICE_UND         // undefined instruction vector

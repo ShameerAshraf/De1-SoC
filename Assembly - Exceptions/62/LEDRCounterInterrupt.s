@@ -1,4 +1,10 @@
-/* Program to increase and display value on LEDR, pause using KEYs */
+/* Copyright (C) Syed Shameer Ashraf - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Syed Shameer Ashraf <shameer.ashraf7@gmail.com>, May 2019
+ */
+
+ /* Program to increase and display value on LEDR, pause using KEYs */
                   .section .vectors, "ax"                  
                 B        _start              // reset vector
                 B        SERVICE_UND         // undefined instruction vector
