@@ -5,7 +5,7 @@
 * **The [De1-SoC Board](http://www.de1-soc.terasic.com/)**
 
 ## Software
-* **Intel Monitor Program available through the [Intel FPGA University Program](https://www.intel.com/content/www/us/en/programmable/support/training/university/overview.html)**
+* **Intel Monitor Program (requires installation of corresponding version of Intel Quartus Prime) available through the [Intel FPGA University Program](https://fpgacademy.org/tools.html)**
 * **A Text Editor. Or not.**
 
 ## Testing using the Monitor Program
